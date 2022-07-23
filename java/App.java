@@ -1,5 +1,3 @@
-package com.cursoemvideo.java;
-
 import java.util.Locale;
 import java.util.Scanner;
 
